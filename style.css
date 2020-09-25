@@ -89,5 +89,6 @@ fieldset {
   border-radius: 25px;
 }
 legend{
+  font-weight: 500;
   margin-left: 25px;
 }
